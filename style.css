@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+
+.heading {
+    width: 100%;
+    margin: 0px;
+}
+
+.heading p {
+    font-size: 20px;
+}
+
+.note {
+    font-size: 18px;
+    color: darkblue;
+}
+
+#start, #status, #name_of_obj{
+    font-size: 18px;
+}
+
+canvas
+{
+    border: 5px solid red;
+    border-radius: 5px;
+    box-shadow: 5 5 5 green;
+    margin-top: 200px;
+}
